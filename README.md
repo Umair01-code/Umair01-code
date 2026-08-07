@@ -94,8 +94,6 @@
 
 </div>
 
-> 📌 *Pin your best 4–6 repos on your profile so they show up right below this README — GitHub → your profile → Customize your pins.*
-
 ---
 
 ## 📊 GitHub Analytics
