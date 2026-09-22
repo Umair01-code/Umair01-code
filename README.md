@@ -85,8 +85,11 @@
 
 | Project | Highlights |
 |---|---|
+
 | 👁️ **Gaze Detection System** | Extended **ETH-XGaze** for real-time, high-accuracy gaze estimation |
 | 👗 **Virtual Try-On System** | Built on **VITON-HD** and **U-Net** for realistic garment transfer |
+📄 **AI Resume Analyzer** | Built a **MERN Stack web application** for real-time resume analysis against job descriptions and personalized improvement suggestions |
+| 🧠 **AI PDF Assistant** | Built an **LLM-powered RAG application** for uploading PDFs and asking context-aware questions about their content |
 | 🎯 **YOLO + SORT Detection Pipeline** | Real-time multi-object detection and tracking |
 | 🛍️ **Hyperlocal AI Marketplace** | AI-powered local marketplace platform |
 | 👕 **Ticktee Style** | Full-stack fashion e-commerce platform (MERN) |
